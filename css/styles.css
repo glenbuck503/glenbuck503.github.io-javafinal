@@ -1,0 +1,113 @@
+
+#home {
+  background: url(../img/images.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+
+}
+#pizza {
+  text-align: center;
+  color: green;
+  font-size: 40px;
+}
+.special {
+  text-align: center;
+}
+
+.nav-link {
+  color:white;
+}
+.jumbotron {
+  fluid; background-color: inherit;
+}
+.container {
+  color: white;
+  font-size: 40px;
+  font-family: fantasy;
+}
+
+
+
+
+h1 .link {
+  font-size: 100px;
+  color:black;
+
+}
+h1{
+  text-align: center;
+  color:#f7902a;
+}
+
+li: .cinema {
+  font-family: fantasy;
+  font-size: 50px;
+  color:#c2f442;
+
+}
+
+
+
+.this {
+  color:#f7902a;
+  font-size: 50px;
+  text-align: center;
+}
+
+.recent h1,ul .cinema {
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+  color: #f7902a;
+  list-style: none;
+  padding-bottom:50px;
+
+}
+.recent ul .cinema {
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+  color: #f7902a;
+  list-style: none;
+  padding-bottom:50px;
+
+}
+
+ul .cinema {
+  font-size: 50px;
+  color: #f7902a;
+}
+
+p.name
+ {
+  color: #f7902a;
+  font-size: 80px;
+  padding-bottom: 70px;
+
+}
+
+.main {
+  font-size: 75px;
+  color:#f7902a;
+}
+
+.pic img {
+  height: 500px;
+  width: 500px;
+  align-self: center;
+}
+
+.col-md-6 {
+  color: red;
+
+}
+
+.aboutme {
+  background-color: black;
+}
+
+.col-md-4 {
+  float:right;
+  margin:30px;
+
+}
