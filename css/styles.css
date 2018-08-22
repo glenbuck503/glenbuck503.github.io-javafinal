@@ -5,6 +5,15 @@
   height: 100%;
 
 }
+#meats {
+  color: #f4ec4e;
+  font-family: fantasy;
+  font-size: 40px;
+
+}
+.menuright h3, .menuleft h3, .cheese h3 {
+  color: white;
+}
 #pizza {
   text-align: center;
   color: green;
@@ -15,7 +24,11 @@
   color:#f4ec4e;
   font-family: fantasy;
 }
-
+#sizemenu {
+  color: #f4ec4e;
+  font-family: fantasy;
+  font-size: 40px;
+}
 .nav-link {
   color:white;
   font-size: 20px;
