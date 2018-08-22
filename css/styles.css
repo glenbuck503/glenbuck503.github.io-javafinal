@@ -21,9 +21,15 @@
   fluid; background-color: inherit;
 }
 .container {
-  color: white;
+  color: #e53d1b;
   font-size: 40px;
   font-family: fantasy;
+}
+
+.container p {
+  font-size: 20px;
+  color: white;
+  font-family:sans-serif;
 }
 
 
