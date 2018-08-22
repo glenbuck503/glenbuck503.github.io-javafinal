@@ -10,19 +10,22 @@
   color: green;
   font-size: 40px;
 }
-.special {
+#special {
   text-align: center;
+  color:#f4ec4e;
+  font-family: fantasy;
 }
 
 .nav-link {
   color:white;
+  font-size: 20px;
 }
 .jumbotron {
   fluid; background-color: inherit;
 }
 .container {
-  color: #e53d1b;
-  font-size: 40px;
+  color: #f4ec4e;
+  font-size: 30px;
   font-family: fantasy;
 }
 
@@ -31,6 +34,7 @@
   color: white;
   font-family:sans-serif;
 }
+
 
 
 
